@@ -1,6 +1,6 @@
 # Laboratorios de Ingeniería del Software
 ## Cuentas GitHub de los estudiantes:
-Grupo 1: fjavier-fernandez y Carlos-Gonzalez-Cortado
+<!-- Grupo 1: fjavier-fernandez y Carlos-Gonzalez-Cortado
 
 Grupo 2: raulmateo
 
@@ -20,4 +20,8 @@ Grupo 11: evamariahg, MiriamRiouch y ppinneapple (Mercedes Navarro Martínez)
 
 Grupo 12: Alesx13, Alexcz21, albertlpz y Roberto9997
 
-Grupo 13: vgroking, fkaracic, markovic-jelena, lucija1
+Grupo 13: vgroking, fkaracic, markovic-jelena, lucija1 -->
+
+##Alumnos de Desarrollo de proyecto de Software
+
+Gabriel Segado Moreno
